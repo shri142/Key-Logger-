@@ -1,2 +1,2 @@
 # Key-Logger-
-This simple Keylogger in python
+This is simple Keylogger in python
